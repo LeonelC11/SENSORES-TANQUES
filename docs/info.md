@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Control and supervition of tanq of water
 
 ## How to test
 
-Explain how to use your project
+scan sensor status and show on  a display
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+tanq, sensores
